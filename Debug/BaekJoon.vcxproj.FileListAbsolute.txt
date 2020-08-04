@@ -1,0 +1,2 @@
+C:\Users\alexp\source\repos\BaekJoon\Debug\BaekJoon.exe
+C:\Users\alexp\source\repos\BaekJoon\Debug\BaekJoon.pdb
