@@ -1,0 +1,14 @@
+
+Baek레파지토리
+1. git init
+2.git status
+3.git add ,
+4.git commit -m "d"
+5.git remote add origin https://github.com/BbakSsang/Baek.git
+6.git remote -v
+7git push origin master
+
+
+
+---
+https://github.com/BbakSsang/Baek.git
