@@ -87,7 +87,7 @@
 //
 //			//if (temp = !49 || temp != 97 || temp != 130 || temp != 10 || temp != 1)
 //			//{
-//				crr.push_back(temp);
+//			crr.push_back(temp);
 //			//}  //아이디어 있는사람? 700일때 되는거 몇개만 에외로 넣어서 넣기
 //
 //			n = temp;
