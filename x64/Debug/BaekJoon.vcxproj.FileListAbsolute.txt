@@ -2,3 +2,5 @@ C:\Users\alexp\source\repos\BbakSsang\BaekJoon\x64\Debug\BaekJoon.exe
 C:\Users\alexp\source\repos\BbakSsang\BaekJoon\x64\Debug\BaekJoon.pdb
 C:\Users\alexp\Desktop\BaekJoon\x64\Debug\BaekJoon.exe
 C:\Users\alexp\Desktop\BaekJoon\x64\Debug\BaekJoon.pdb
+C:\Users\alexp\Desktop\Baek\x64\Debug\BaekJoon.exe
+C:\Users\alexp\Desktop\Baek\x64\Debug\BaekJoon.pdb

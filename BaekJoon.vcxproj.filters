@@ -36,5 +36,17 @@
     <ClCompile Include="1758 알바생 강호.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10757 큰수A+B.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10773 제로.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3986 좋은단어.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
