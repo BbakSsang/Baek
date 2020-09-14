@@ -1,2 +1,20 @@
+<<<<<<< HEAD
 ﻿  11048 이동하기.cpp
 LINK : fatal error LNK1168: C:\Users\alexp\Desktop\BaekJoon\x64\Debug\BaekJoon.exe을(를) 쓰기용으로 열 수 없습니다.
+=======
+﻿  10757 큰수A+B.cpp
+C:\Users\alexp\Desktop\Baek\10757 큰수A+B.cpp(29,44): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\alexp\Desktop\Baek\10757 큰수A+B.cpp(30,41): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\alexp\Desktop\Baek\10757 큰수A+B.cpp(34,49): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\alexp\Desktop\Baek\10757 큰수A+B.cpp(48,15): error C2065: 'MAX_NUM': 선언되지 않은 식별자입니다.
+C:\Users\alexp\Desktop\Baek\10757 큰수A+B.cpp(48,36): error C2065: 'MAX_NUM': 선언되지 않은 식별자입니다.
+C:\Users\alexp\Desktop\Baek\10757 큰수A+B.cpp(50,15): error C2065: 'MAX_NUM': 선언되지 않은 식별자입니다.
+C:\Users\alexp\Desktop\Baek\10757 큰수A+B.cpp(50,36): error C2065: 'MAX_NUM': 선언되지 않은 식별자입니다.
+C:\Users\alexp\Desktop\Baek\10757 큰수A+B.cpp(50,57): error C2065: 'MAX_NUM': 선언되지 않은 식별자입니다.
+C:\Users\alexp\Desktop\Baek\10757 큰수A+B.cpp(54,15): error C2065: 'MAX_NUM': 선언되지 않은 식별자입니다.
+C:\Users\alexp\Desktop\Baek\10757 큰수A+B.cpp(54,36): error C2065: 'MAX_NUM': 선언되지 않은 식별자입니다.
+C:\Users\alexp\Desktop\Baek\10757 큰수A+B.cpp(54,57): error C2065: 'MAX_NUM': 선언되지 않은 식별자입니다.
+C:\Users\alexp\Desktop\Baek\10757 큰수A+B.cpp(55,15): error C2065: 'MAX_NUM': 선언되지 않은 식별자입니다.
+  소스.cpp
+  코드를 생성하고 있습니다...
+>>>>>>> 4ea0fbb9f0a27bc148994f6c2430cf9de35a2392

@@ -138,6 +138,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClCompile Include="11399 ATM.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -174,6 +175,19 @@
     <ClCompile Include="11048 이동하기.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
     </ClCompile>
+=======
+    <ClCompile Include="10773 제로.cpp" />
+    <ClCompile Include="11399 ATM.cpp" />
+    <ClCompile Include="1644 소수의연속합.cpp" />
+    <ClCompile Include="1758 알바생 강호.cpp" />
+    <ClCompile Include="3986 좋은단어.cpp" />
+    <ClCompile Include="9421 소수상근수.cpp" />
+    <ClCompile Include="9421-1 상근수일때소수출력.cpp" />
+    <ClCompile Include="1520 내리막길.cpp" />
+    <ClCompile Include="1302 베스트셀러.cpp" />
+    <ClCompile Include="10757 큰수A+B.cpp" />
+    <ClCompile Include="소스.cpp" />
+>>>>>>> 4ea0fbb9f0a27bc148994f6c2430cf9de35a2392
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
