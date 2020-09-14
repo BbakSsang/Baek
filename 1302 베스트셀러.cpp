@@ -23,6 +23,7 @@
 //	//brr.resize(arr.size());//같은크기로 할당
 //
 //	sort(arr.begin(), arr.end());
+//	
 //	if (arr.size() == 1)
 //	{
 //		cout << arr[0];
