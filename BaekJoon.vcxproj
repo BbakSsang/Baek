@@ -149,6 +149,7 @@
     <ClCompile Include="1302 베스트셀러.cpp" />
     <ClCompile Include="10757 큰수A+B.cpp" />
     <ClCompile Include="소스.cpp" />
+    <ClCompile Include="짝곱.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
