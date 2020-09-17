@@ -36,6 +36,21 @@
     <ClCompile Include="1758 알바생 강호.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+<<<<<<< HEAD
+    <ClCompile Include="1436 영화감동숌.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1074 Z.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11048 이동하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9095 123더하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4949 균형잡힌 세상.cpp">
+=======
     <ClCompile Include="10757 큰수A+B.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -46,6 +61,7 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="소스.cpp">
+>>>>>>> 4ea0fbb9f0a27bc148994f6c2430cf9de35a2392
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="짝곱.cpp">
